@@ -1,1 +1,5 @@
+baseURL = 'https://victorious-moss-0f8db1110.3.azurestaticapps.net'
+languageCode = 'en-us'
+title = 'Test'
 theme = "ananke"
+
