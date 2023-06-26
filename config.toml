@@ -1,5 +1,6 @@
+# Use filename config.toml to be compatible with Azure static web apps, although Hugo now prefers hugo.toml
 baseURL = 'https://victorious-moss-0f8db1110.3.azurestaticapps.net'
 languageCode = 'en-us'
-title = 'Test'
+title = 'Test config.toml'
 theme = "ananke"
 
